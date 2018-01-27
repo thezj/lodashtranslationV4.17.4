@@ -18,4 +18,4 @@
 >>> (object)返回绑定的对象
 >>> + Notes:  
 >>> **对象的方法以后再遇到绑定到其他地方的时候object.func1.call(otherObject),不会改变方法内部的上下文对象this，还是指向原始对象object**  
->>> ![](https://raw.githubusercontent.com/thezj/lodashtranslationV4.17.4/master/bindAll1.png)
+>>> ![](https://raw.githubusercontent.com/thezj/lodashtranslationV4.17.4/master/bindall1.png)
